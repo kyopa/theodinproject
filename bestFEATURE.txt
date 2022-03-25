@@ -1,0 +1,3 @@
+FREE BITCOIN
+
+console.log("LOL)
